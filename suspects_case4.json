@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Sam Patel",
+    "alias": "sam_patel",
+    "card_id": "card_sam",
+    "phone_id": "device_sam",
+    "relationship": "classmate",
+    "alibi": "Claims they left campus right after class and went home."
+  },
+  {
+    "name": "Maria Lopez",
+    "alias": "maria_lopez",
+    "card_id": "card_maria",
+    "phone_id": "device_maria",
+    "relationship": "ex-roommate",
+    "alibi": "Says they were in a club meeting across town."
+  },
+  {
+    "name": "Jordan Lee",
+    "alias": "jordan_lee",
+    "card_id": "card_jordan",
+    "phone_id": "device_jordan",
+    "relationship": "campus security",
+    "alibi": "Reports they were on patrol but no logs provided."
+  },
+  {
+    "name": "Jacqueline Snyder",
+    "alias": "usantiago",
+    "card_id": "card_ALcrLq",
+    "phone_id": "device_pAzfXN",
+    "relationship": "library staff",
+    "alibi": "No one can verify their whereabouts."
+  },
+  {
+    "name": "Angela Gates",
+    "alias": "lawsondavid",
+    "card_id": "card_hYNhem",
+    "phone_id": "device_xIpBUg",
+    "relationship": "library staff",
+    "alibi": "Claims they were studying in the library."
+  },
+  {
+    "name": "Kathleen Bennett",
+    "alias": "yvalentine",
+    "card_id": "card_UEhjKB",
+    "phone_id": "device_ZIsIaf",
+    "relationship": "cafeteria worker",
+    "alibi": "Claims they were studying in the library."
+  },
+  {
+    "name": "Mr. Joseph Evans",
+    "alias": "oscar46",
+    "card_id": "card_sCeQZn",
+    "phone_id": "device_kDDSPl",
+    "relationship": "cafeteria worker",
+    "alibi": "Says they were grabbing food off-campus."
+  },
+  {
+    "name": "Connie Stewart",
+    "alias": "rjohnson",
+    "card_id": "card_SzCmaN",
+    "phone_id": "device_MFiHlo",
+    "relationship": "cafeteria worker",
+    "alibi": "No one can verify their whereabouts."
+  }
+]

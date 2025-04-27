@@ -1,0 +1,19 @@
+card_id,timestamp,station,swipe_type
+card_sam,2025-04-10T23:00:00,Campus Central Station,exit
+card_maria,2025-04-10T23:05:00,Campus Central Station,exit
+card_jordan,2025-04-10T23:20:00,Campus Central Station,exit
+card_RnTJFP,2025-04-10T21:40:00,Campus Central Station,enter
+card_ZZssKj,2025-04-10T21:05:00,Parkside Station,enter
+card_EEtsKs,2025-04-10T23:23:00,Parkside Station,enter
+card_ZGjAVf,2025-04-10T23:01:00,University Station,enter
+card_msZXcl,2025-04-10T20:37:00,Campus Central Station,enter
+card_XhbnkY,2025-04-10T21:29:00,Parkside Station,enter
+card_IUXULm,2025-04-10T22:53:00,Campus Central Station,exit
+card_QotPfI,2025-04-10T21:26:00,University Station,exit
+card_WjQZnF,2025-04-10T20:31:00,Campus Central Station,exit
+card_qqSSAI,2025-04-10T21:57:00,University Station,enter
+card_DrxbpI,2025-04-10T21:25:00,University Station,enter
+card_ceQjPQ,2025-04-10T20:53:00,University Station,enter
+card_qlCIqR,2025-04-10T22:01:00,University Station,exit
+card_ocXoqj,2025-04-10T20:41:00,Parkside Station,exit
+card_dswWBq,2025-04-10T22:47:00,Campus Central Station,exit

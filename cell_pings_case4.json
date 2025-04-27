@@ -1,0 +1,146 @@
+[
+  {
+    "device_id": "device_sam",
+    "timestamp": "2025-04-10T23:35:00",
+    "lat": 40.730086,
+    "lon": -73.934943
+  },
+  {
+    "device_id": "device_maria",
+    "timestamp": "2025-04-10T23:36:00",
+    "lat": 40.729885,
+    "lon": -73.936061
+  },
+  {
+    "device_id": "device_maria",
+    "timestamp": "2025-04-10T23:42:00",
+    "lat": 40.729956,
+    "lon": -73.935621
+  },
+  {
+    "device_id": "device_jordan",
+    "timestamp": "2025-04-10T23:14:00",
+    "lat": 40.731233,
+    "lon": -73.93544
+  },
+  {
+    "device_id": "device_vAKeQt",
+    "timestamp": "2025-04-10T21:56:00",
+    "lat": 40.735927,
+    "lon": -73.940607
+  },
+  {
+    "device_id": "device_bPQkHl",
+    "timestamp": "2025-04-10T21:34:00",
+    "lat": 40.724711,
+    "lon": -73.928393
+  },
+  {
+    "device_id": "device_SoIcce",
+    "timestamp": "2025-04-10T22:59:00",
+    "lat": 40.747966,
+    "lon": -73.929279
+  },
+  {
+    "device_id": "device_vSZnLa",
+    "timestamp": "2025-04-10T22:35:00",
+    "lat": 40.735899,
+    "lon": -73.933834
+  },
+  {
+    "device_id": "device_EnKMZh",
+    "timestamp": "2025-04-10T21:02:00",
+    "lat": 40.717036,
+    "lon": -73.940022
+  },
+  {
+    "device_id": "device_FOzkVg",
+    "timestamp": "2025-04-10T23:56:00",
+    "lat": 40.7361,
+    "lon": -73.932922
+  },
+  {
+    "device_id": "device_jtRgeO",
+    "timestamp": "2025-04-10T22:55:00",
+    "lat": 40.723471,
+    "lon": -73.924467
+  },
+  {
+    "device_id": "device_vVawbL",
+    "timestamp": "2025-04-10T20:14:00",
+    "lat": 40.719662,
+    "lon": -73.953916
+  },
+  {
+    "device_id": "device_XadKbm",
+    "timestamp": "2025-04-10T21:20:00",
+    "lat": 40.726547,
+    "lon": -73.952552
+  },
+  {
+    "device_id": "device_rclLCV",
+    "timestamp": "2025-04-10T23:53:00",
+    "lat": 40.748216,
+    "lon": -73.920145
+  },
+  {
+    "device_id": "device_WvOaxy",
+    "timestamp": "2025-04-10T21:20:00",
+    "lat": 40.719005,
+    "lon": -73.935231
+  },
+  {
+    "device_id": "device_wEYWwO",
+    "timestamp": "2025-04-10T23:46:00",
+    "lat": 40.747082,
+    "lon": -73.936846
+  },
+  {
+    "device_id": "device_tZYDvZ",
+    "timestamp": "2025-04-10T21:07:00",
+    "lat": 40.716085,
+    "lon": -73.9254
+  },
+  {
+    "device_id": "device_jvaThW",
+    "timestamp": "2025-04-10T22:17:00",
+    "lat": 40.72101,
+    "lon": -73.931817
+  },
+  {
+    "device_id": "device_tUyQbp",
+    "timestamp": "2025-04-10T23:49:00",
+    "lat": 40.733841,
+    "lon": -73.94072
+  },
+  {
+    "device_id": "device_dygdiq",
+    "timestamp": "2025-04-10T20:35:00",
+    "lat": 40.730881,
+    "lon": -73.951564
+  },
+  {
+    "device_id": "device_yzpQtw",
+    "timestamp": "2025-04-10T20:12:00",
+    "lat": 40.744944,
+    "lon": -73.949086
+  },
+  {
+    "device_id": "device_RmanZs",
+    "timestamp": "2025-04-10T20:40:00",
+    "lat": 40.742183,
+    "lon": -73.938314
+  },
+  {
+    "device_id": "device_lcEEcN",
+    "timestamp": "2025-04-10T20:16:00",
+    "lat": 40.725891,
+    "lon": -73.931364
+  },
+  {
+    "device_id": "device_BAqPBv",
+    "timestamp": "2025-04-10T21:59:00",
+    "lat": 40.731665,
+    "lon": -73.916357
+  }
+]
